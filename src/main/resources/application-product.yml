@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+demo:
+  name: demo-product
+  size: 20
+
+
